@@ -4,7 +4,7 @@
     "Multi_All_Post_GB": 92.67307886126373,
     "Multi_All_Post_RNN": 74.9061200744811,
     "Multi_All_Post_LSTM": 93.83513796669783,
-    "Multi_All_Pre_ARMIAX": 18.46791695442273,
+    "Multi_All_Pre_ARIMAX": 18.46791695442273,
     "Multi_All_Pre_SARIMAX": 18.851486485461884,
     "Multi_All_Pre_GB": 31.529688046258077,
     "Multi_All_Pre_RNN": 14.09256636950005,
@@ -32,8 +32,12 @@
     "One_All_Pre_SARIMAX": 5.975218942369339,
     "One_Single_Post_ARIMAX": 29.992965586795282,
     "One_Single_Pre_ARIMAX": 7.180574215312726,
-    "One_Single_Pre_SARIMAX": 5.975218942369339,
+    "One_Single_Pre_SARIMAX": 25.757814970894565,
     "One_All_Post_SARIMAX": 25.850795469356882,
     "Multi_Single_Post_LLMMistralZero": 110.29083144123993,
-    "Multi_Single_Pre_LLMMistralZero": 38.023841205222816
+    "Multi_Single_Pre_LLMMistralZero": 38.023841205222816,
+    "One_Single_Post_SARIMAX": 25.850795469356882,
+    "One_Single_Post_GB": 35.38238077636112,
+    "One_All_Pre_GB": 26.672546768676128,
+    "One_All_Post_GB": 38.67640724620957
 }
