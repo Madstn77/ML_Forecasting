@@ -42,5 +42,13 @@
     "One_All_Post_GB": 5.093211143277979,
     "One_Single_Pre_GB": 4.236679697001787,
     "Multi_UniVar_Pre_ARIMAX": 2.911387595239935,
-    "Multi_UniVar_Pre_SARIMAX": 3.044747611784285
+    "Multi_UniVar_Pre_SARIMAX": 3.044747611784285,
+    "Multi_UniVar_Pre_LSTM": 1.6733117953733314,
+    "Multi_UniVar_Pre_GB": 2.0413825833430796,
+    "Multi_UniVar_Pre_RNN": 3.4794585344792544,
+    "Multi_UniVar_Post_ARIMAX": 7.389131631641938,
+    "Multi_UniVar_Post_SARIMAX": 7.584910695964753,
+    "Multi_UniVar_Post_LSTM": 6.550619426564755,
+    "Multi_UniVar_Post_RNN": 7.038459487380151,
+    "Multi_UniVar_Post_GB": 4.889346540471302
 }
