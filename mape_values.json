@@ -58,5 +58,7 @@
     "One_UniVar_Pre_RNN": 3.84775894258612,
     "One_UniVar_Pre_LSTM": 3.8828596694971496,
     "One_UniVar_Post_RNN": 4.470614907968437,
-    "One_UniVar_Post_LSTM": 4.5660883645804935
+    "One_UniVar_Post_LSTM": 4.5660883645804935,
+    "One_UniVar_Post_GB": 4.647521278086421,
+    "One_UniVar_Pre_GB": 4.032254227504471
 }
