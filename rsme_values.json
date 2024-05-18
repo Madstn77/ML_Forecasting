@@ -34,8 +34,8 @@
     "One_Single_Pre_ARIMAX": 7.180574215312726,
     "One_Single_Pre_SARIMAX": 5.975218942369339,
     "One_All_Post_SARIMAX": 25.850795469356882,
-    "Multi_Single_Post_LLMMistralZero": 110.29083144123993,
-    "Multi_Single_Pre_LLMMistralZero": 38.023841205222816,
+    "Multi_Single_Post_MistralZeroShot": 35.53802189205246,
+    "Multi_Single_Pre_MistralZeroShot": 20.79667942244627,
     "One_Single_Post_SARIMAX": 25.850795469356882,
     "One_Single_Post_GB": 35.38238077636112,
     "One_All_Pre_GB": 26.672546768676128,
@@ -60,5 +60,7 @@
     "One_UniVar_Post_RNN": 34.57688902827345,
     "One_UniVar_Post_LSTM": 35.05483156990008,
     "One_UniVar_Post_GB": 35.67641753395857,
-    "One_UniVar_Pre_GB": 22.97910207248272
+    "One_UniVar_Pre_GB": 22.97910207248272,
+    "Multi_Single_Post_MistralFewShot": 123.46338526057028,
+    "Multi_Single_Pre_MistralFewShot": 43.783951112251174
 }
