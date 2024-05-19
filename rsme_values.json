@@ -62,5 +62,7 @@
     "One_UniVar_Post_GB": 35.67641753395857,
     "One_UniVar_Pre_GB": 22.97910207248272,
     "Multi_Single_Post_MistralFewShot": 123.46338526057028,
-    "Multi_Single_Pre_MistralFewShot": 43.783951112251174
+    "Multi_Single_Pre_MistralFewShot": 43.783951112251174,
+    "Multi_All_Pre_MistralFewShot": 18.618908399796148,
+    "Multi_All_Post_MistralFewShot": 93.48583448844
 }
