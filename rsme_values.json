@@ -64,5 +64,7 @@
     "Multi_Single_Post_MistralFewShot": 123.46338526057028,
     "Multi_Single_Pre_MistralFewShot": 43.783951112251174,
     "Multi_All_Pre_MistralFewShot": 18.618908399796148,
-    "Multi_All_Post_MistralFewShot": 93.48583448844
+    "Multi_All_Post_MistralFewShot": 93.48583448844,
+    "One_UniVar_Pre_Phi3ZeroShot": 22.320982281252785,
+    "One_UniVar_Post_Phi3ZeroShot": 45.91115911464226
 }
