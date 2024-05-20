@@ -65,10 +65,10 @@
     "Multi_Single_Pre_MistralFewShot": 43.783951112251174,
     "Multi_All_Pre_MistralFewShot": 18.618908399796148,
     "Multi_All_Post_MistralFewShot": 93.48583448844,
-    "One_UniVar_Pre_Phi3ZeroShot": 22.320982281252785,
-    "One_UniVar_Post_Phi3ZeroShot": 45.91115911464226,
-    "One_Single_Pre_MistralFewShot": 21.79124002131745,
-    "One_Single_Post_MistralFewShot": 83.32871987229586,
+    "One_UniVar_Pre_MistralFewShot": 69.85791830565809,
+    "One_UniVar_Post_MistralFewShot": 122.98363204101592,
+    "One_Single_Pre_MistralFewShot": 72.72127853241368,
+    "One_Single_Post_MistralFewShot": 146.57913834290284,
     "One_All_Post_MistralFewShot": 154.0867676018937,
     "One_All_Pre_MistralFewShot": 24.19436388397099
 }
